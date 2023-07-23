@@ -1,0 +1,6 @@
+@import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;700;800&display=swap');
+*{
+    font-family: 'JetBrains Mono', monospace;
+    word-spacing: -5px;
+    letter-spacing: -1px;
+}
